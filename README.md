@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Sunhee's%20GitHub&height=150&fontSize=60&fontAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Sunhee's%20GitHub&height=150&fontSize=60&fontAlign=50)
 
 <br>
 
@@ -52,9 +52,9 @@
   
 </p>
 
-
+<br>
 <p align="center">
-    💡contact
+    <Strong>📞contact📞</Strong><br>
 </p>
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/sunheedream@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
