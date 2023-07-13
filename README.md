@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Sunhee's%20GitHub&height=150&fontSize=60&fontAlign=55)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Sunhee's%20GitHub&height=150&fontSize=60&fontAlign=50)
 
 <br>
 
