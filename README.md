@@ -21,12 +21,10 @@
 <p align="center" display="inline-block">
     💡Framework <br>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 <p align="center" display="inline-block">
     💡Library <br>
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    
 </p>
 <p align="center" display="inline-block">
     💡Tools <br>
@@ -49,7 +47,6 @@
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-  
 </p>
 
 <br>
@@ -57,7 +54,7 @@
     <Strong>📞contact📞</Strong><br>
 </p>
 <p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-    <p align="center">sunheedream@gmail.com</p>
+    <a href=""><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=sunheedream@gmail.com&logoColor=white"/></a>
+    <p align="center"></p>
 </p>
 
