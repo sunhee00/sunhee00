@@ -54,7 +54,7 @@
     <Strong>📞contact📞</Strong><br>
 </p>
 <p align="center" display="inline-block">
-    <a href="mailto:sunheedream@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="mailto:sunheedream@gmail.com"><img src="https://img.shields.io/badge/sunheedream@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <p align="center"></p>
 </p>
 
